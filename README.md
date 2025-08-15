@@ -1,7 +1,7 @@
 # Lern-Atelier-1
 ## 1. Tag
 ### Ziele
-1. Laptop aufraumen
-2. Mission2 beenden
-3. OneDrive aufraumen
-   test ooooo o o o
+1. Laptop dokumenten organisieren
+2. Mission2 beenden, wenn genug zeit
+3. OneDrive richtig einstellen
+
