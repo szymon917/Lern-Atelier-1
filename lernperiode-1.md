@@ -46,13 +46,25 @@ wenn ich schneller gearbeitet und weniger Pausen gemacht hatte.
 ## Planung 12.10.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP:
-- [] 2. AP: 
-- [] 3. AP: 
+- [X] 1. AP: Modul 431: 1712
+- [X] 2. AP: Modul 431: 1714
+- [] 3. AP: Modul 431: 1716
 
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
 
+
+## Planung 19.10.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Modul 319: OBA 
+- [] 2. AP: Modul 431: weiter machen 
+- [] 3. AP: Modul 319: Mission 9
+
+(Heute habe ich... (50-100 Wörter))
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (50-100 Wörter))
 
