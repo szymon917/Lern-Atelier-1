@@ -34,9 +34,9 @@ wenn ich schneller gearbeitet und weniger Pausen gemacht hatte.
 ## Planung 05.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ x] 1. AP: Mission 6 fertig machen
-- [ x] 2. AP: Mission 7 fertig machen
-- [ x] 3. AP: Dokumente sortieren
+- [X] 1. AP: Mission 6 fertig machen
+- [X] 2. AP: Mission 7 fertig machen
+- [X] 3. AP: Dokumente sortieren
 
 (Heute habe ich... (50-100 Wörter))
 
