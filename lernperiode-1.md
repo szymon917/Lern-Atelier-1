@@ -31,7 +31,7 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 Heute habe ich diesen Dokument geschrieben und eine Mission fertig gemacht und die 2 angefangen in Module 319, das ist gut gelaufen und fast ohne Probleme. Ich glaube es ware besser 
 wenn ich schneller gearbeitet und weniger Pausen gemacht hatte. 
 
-## Planung 05.09.2024
+## Planung 5.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] 1. AP: Mission 6 fertig machen
@@ -42,4 +42,17 @@ wenn ich schneller gearbeitet und weniger Pausen gemacht hatte.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
+
+## Planung 12.10.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP:
+- [] 2. AP: 
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (50-100 Wörter))
+
 
