@@ -60,7 +60,7 @@ wenn ich schneller gearbeitet und weniger Pausen gemacht hatte.
 3 bis 5 klar messbare Arbeitspakete.
 
 - [] 1. AP: Modul 319: OBA 
-- [] 2. AP: Modul 431: weiter machen 
+- [x] 2. AP: Modul 431: weiter machen 
 - [] 3. AP: Modul 319: Mission 9
 
 (Heute habe ich... (50-100 Wörter))
