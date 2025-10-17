@@ -66,10 +66,13 @@ wenn ich schneller gearbeitet und weniger Pausen gemacht hatte.
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] 1. AP: Modul 431 beenden 
-- [X] 2. AP: OBA 319 fertig machen
+- [] 2. AP: OBA 319 fertig machen
 - [X] 3. AP: Lernperiode 2 erstellen
 
 (Heute habe ich... (50-100 Wörter))
+
+Heute habe ich fast Modul 431 beendet und am bisschen am OBA 319 ararbeitet. Expertenzielen abgeschlossen und eine andere Aufgabe angefangen. 
+Am Dienstag noch Prasentation machen und noch die Auftragen zum Prasentation machen. Und fur Modul 319 Prufung lernen oder OBA fertig machen.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
@@ -77,9 +80,9 @@ wenn ich schneller gearbeitet und weniger Pausen gemacht hatte.
 ## Planung 24.10.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [X] 1. AP:  
-- [X] 2. AP: 
-- [X] 3. AP: 
+- [] 1. AP: Neue Modul beginnen  
+- [] 2. AP: Neue Modul beginnen
+- [] 3. AP: Neue Modul beginnen
 
 (Heute habe ich... (50-100 Wörter))
 
