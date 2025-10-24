@@ -42,13 +42,23 @@ Am Dienstag noch Prasentation machen und noch die Auftragen zum Prasentation mac
 ## Planung 24.10.2024
 3 bis 5 klar messbare Arbeitspakete.
 
+- [] 1. AP: Alte Modul anschauen  
+- [] 2. AP: Alte Modul anschauen
+- [] 3. AP: Alte Modul anschauen
+
+(Heute habe ich... (50-100 Wörter))
+
+Heute habe ich das Modul 319 und 431 repetiert, weil wir keine neue Module angeschaut haben. Im Modul 319 habe ich alle Mission und die Codes
+das ich geschrieben haben angeschaut und im 431 die Powerpoints. 
+
+
+## Planung 31.10.2024
+3 bis 5 klar messbare Arbeitspakete.
+
 - [] 1. AP: Neue Modul beginnen  
 - [] 2. AP: Neue Modul beginnen
 - [] 3. AP: Neue Modul beginnen
 
 (Heute habe ich... (50-100 Wörter))
-
-
-
 
 
