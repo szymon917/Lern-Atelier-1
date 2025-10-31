@@ -55,10 +55,19 @@ das ich geschrieben haben angeschaut und im 431 die Powerpoints.
 ## Planung 31.10.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP: Neue Modul beginnen  
-- [] 2. AP: Neue Modul beginnen
-- [] 3. AP: Neue Modul beginnen
+- [x] 1. AP: Neue Modul beginnen  
+- [x] 2. AP: Neue Modul beginnen
+- [x] 3. AP: Neue Modul beginnen
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich den PAP fertig gemacht und weiter rechechiert zum den Fremdwahrungsrechner Projekt.
 
 
+## Planung 31.10.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Fremdwahrungsrechner Programm schreiben
+- [] 2. AP: Modul 162 weiter machen
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
