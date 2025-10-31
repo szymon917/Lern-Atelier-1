@@ -62,8 +62,7 @@ das ich geschrieben haben angeschaut und im 431 die Powerpoints.
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich den PAP fertig gemacht und weiter rechechiert zum den Fremdwahrungsrechner Projekt.
 
-
-## Planung 31.10.2024
+## Planung 7.11.2024
 3 bis 5 klar messbare Arbeitspakete.
 
 - [] 1. AP: Fremdwahrungsrechner Programm schreiben
