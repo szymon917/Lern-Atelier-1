@@ -27,7 +27,7 @@ Die C# sprache besser kennenlernen.
 
 
 
-## Planung 17.10.2024
+## Planung 17.10.2025
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] 1. AP: Modul 431 beenden 
@@ -39,12 +39,12 @@ Die C# sprache besser kennenlernen.
 Heute habe ich fast Modul 431 beendet und am bisschen am OBA 319 ararbeitet. Expertenzielen abgeschlossen und eine andere Aufgabe angefangen. 
 Am Dienstag noch Prasentation machen und noch die Auftragen zum Prasentation machen. Und fur Modul 319 Prufung lernen oder OBA fertig machen.
 
-## Planung 24.10.2024
+## Planung 24.10.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP: Alte Modul anschauen  
-- [] 2. AP: Alte Modul anschauen
-- [] 3. AP: Alte Modul anschauen
+- [x] 1. AP: Alte Modul anschauen  
+- [x] 2. AP: Alte Modul anschauen
+- [x] 3. AP: Alte Modul anschauen
 
 (Heute habe ich... (50-100 Wörter))
 
@@ -52,7 +52,7 @@ Heute habe ich das Modul 319 und 431 repetiert, weil wir keine neue Module anges
 das ich geschrieben haben angeschaut und im 431 die Powerpoints. 
 
 
-## Planung 31.10.2024
+## Planung 31.10.2025
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] 1. AP: Neue Modul beginnen  
@@ -62,11 +62,24 @@ das ich geschrieben haben angeschaut und im 431 die Powerpoints.
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich den PAP fertig gemacht und weiter rechechiert zum den Fremdwahrungsrechner Projekt.
 
-## Planung 7.11.2024
+## Planung 7.11.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP: Fremdwahrungsrechner Programm schreiben
-- [] 2. AP: Modul 162 weiter machen
+- [x] 1. AP: Fremdwahrungsrechner Programm schreiben
+- [x] 2. AP: Modul 162 weiter machen
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
+
+Heute habe ich Modul 162 weithergemacht und auch ein bisschen von den Fremwahrungsrechner Programm geschrieben. Also den pap von Fremdwahrung
+verbessert und den Projektplan
+
+
+## Planung 14.11.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Modul 162 weitermachen
+- [] 2. AP: Fremdwahrungswahrung Prasenetation
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
