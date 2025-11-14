@@ -78,8 +78,10 @@ verbessert und den Projektplan
 ## Planung 14.11.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP: Modul 162 weitermachen
-- [] 2. AP: Fremdwahrungswahrung Prasenetation
+- [x] 1. AP: Modul 162 weitermachen
+- [x] 2. AP: Fremdwahrungswahrung Prasenetation
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
+
+Heute habe ich die Prasentation gemacht und Modul 162 weiter gemacht. Mit die Prasentation bin ich noch nicht fertig und mache die weiter am nachsten Mittwoch. Modul 162 ist nicht so schwierieg.
