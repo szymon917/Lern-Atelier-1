@@ -85,3 +85,28 @@ verbessert und den Projektplan
 (Heute habe ich... (50-100 Wörter))
 
 Heute habe ich die Prasentation gemacht und Modul 162 weiter gemacht. Mit die Prasentation bin ich noch nicht fertig und mache die weiter am nachsten Mittwoch. Modul 162 ist nicht so schwierieg.
+
+
+## Planung 21.11.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] 1. AP: Modul 162 weitermachen
+- [x] 2. AP: Fremdwahrungswahrung Prasenetation
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
+Heute habe ich die Präsentation weiter gemacht und viel Arda mit dem Code geholfen. Bei Modul  162 habe ich ein paar Aufgaben gemacht. Bei dem IMS
+Projekt muss ich noch die Präsentation fertig machen und noch die Code fertig schrieben. 
+
+
+## Planung 28.11.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] 1. AP: Modul 162 weitermachen
+- [x] 2. AP: IMS Projekt präsentation presentieren üben
+- [] 3. AP: Präsentation fertig machen
+
+(Heute habe ich... (50-100 Wörter))
+
+
+
