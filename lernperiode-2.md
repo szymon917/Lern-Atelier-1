@@ -103,10 +103,23 @@ Projekt muss ich noch die Präsentation fertig machen und noch die Code fertig s
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] 1. AP: Modul 162 weitermachen
-- [x] 2. AP: IMS Projekt präsentation presentieren üben
-- [] 3. AP: Präsentation fertig machen
+- [] 2. AP: IMS Projekt präsentation presentieren üben
+- [x] 3. AP: Präsentation fertig machen
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich die Aufgaben zum logischen und konzeptionellen Datenmodel gemacht. Die Prasentation habe ich weiter gemacht und nacher am Arda
+gegeben um fertig zu machen, weil er die Prasentation fuehrer sein will. Wir hatten leider kein Zeit die Prasentation zum uben.
+
+
+## Planung 5.12.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Neue Modul
+- [] 2. AP: Neue Modul
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
+
 
 
 
