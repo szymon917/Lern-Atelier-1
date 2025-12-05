@@ -114,12 +114,23 @@ gegeben um fertig zu machen, weil er die Prasentation fuehrer sein will. Wir hat
 ## Planung 5.12.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP: Neue Modul
-- [] 2. AP: Neue Modul
+- [x] 1. AP: Neue Modul
+- [x] 2. AP: Neue Modul
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
 
+Heute habe ich den Modul 162 gemacht. Ich dachte wir beginnen den neuen Modul aber Test ist erst nächste Woche. Ich habe die Gesamtrepetition gemacht und OBA angefangen. Ich habe auch den anderen Modul angeschaut bei Frau Dillier.
+
+
+## Planung 12.12.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Neue Modul bei Herr Schmid 
+- [] 2. AP: Modul 162 
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
 
 
 
