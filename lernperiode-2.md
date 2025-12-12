@@ -126,11 +126,19 @@ Heute habe ich den Modul 162 gemacht. Ich dachte wir beginnen den neuen Modul ab
 ## Planung 12.12.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP: Neue Modul bei Herr Schmid 
-- [] 2. AP: Modul 162 
+- [x] 1. AP: Neue Modul bei Herr Schmid 
+- [x] 2. AP: Modul 117 
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich im Modul 117 2 tests gemacht und aufgaben gelost, wir haben den neuen Modul von Herr Schmid nocht nicht angeschaut. Modul 117 sieht nicht schwierig aus.
 
+## Planung 19.12.2025
+3 bis 5 klar messbare Arbeitspakete.
 
+- [x] 1. AP: Neue Modul bei Herr Schmid 
+- [x] 2. AP: Modul 117 
+- [] 3. AP:
+
+  (Heute habe ich... (50-100 Wörter))
 
