@@ -142,3 +142,5 @@ Heute habe ich im Modul 117 2 tests gemacht und aufgaben gelost, wir haben den n
 
   (Heute habe ich... (50-100 Wörter))
 
+  Heute habe ich Modul 117 weiter gemacht. Wir haben sehr viel arbeit dort aber es ist ohne Stolpersteine gegangen.
+
