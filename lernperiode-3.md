@@ -33,5 +33,27 @@ Die C# sprache besser kennenlernen.
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
+Ich war Krank.
+
+## Planung 23.1.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP:   Modul 117 weiterfuhren
+- [] 2. AP: 
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
+Mit Leandro den Projekt von 117 weiter gemacht. Wir haben die Aufgaben ohne Stolpersteine geschafft
+
+## Planung 13.2.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP:   Weiter an Projekt arbeiten
+- [] 2. AP: 
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
+
+
 
 
