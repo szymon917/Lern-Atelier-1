@@ -48,12 +48,23 @@ Mit Leandro den Projekt von 117 weiter gemacht. Wir haben die Aufgaben ohne Stol
 ## Planung 13.2.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP:   Weiter an Projekt arbeiten
+- [x] 1. AP:   Weiter an Projekt arbeiten
 - [] 2. AP: 
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
 
+heute habe ich an dem modul 117 gearbeitet, die powerpoint prasentation gelesen und aufgaben erledigt
+
+
+## Planung 20.2.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Projket und die Test von 117 machen
+- [] 2. AP: 
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
 
 
 
