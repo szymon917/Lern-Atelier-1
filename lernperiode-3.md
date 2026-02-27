@@ -70,8 +70,19 @@ Heute habe ich Modul 117 weitergemacht, wir hatten den test schon aber wir haben
 ## Planung 27.2.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] 1. AP: Neue Modul beim Frau Dillier
-- [] 2. AP: Modul 164 weiter machen
+- [x] 1. AP: Neue Modul beim Frau Dillier
+- [x] 2. AP: Modul 164 weiter machen
+- [] 3. AP: 
+
+(Heute habe ich... (50-100 Wörter))
+heute habe ich die alte modulen angeschaut. Wir beginnen neure module beim Herr Schmid und Frau Dillier nachste Woche
+
+
+## Planung 06.3.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Neue Modul
+- [] 2. AP: 
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
