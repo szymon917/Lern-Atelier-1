@@ -86,3 +86,14 @@ heute habe ich die alte modulen angeschaut. Wir beginnen neure module beim Herr 
 - [] 3. AP: 
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich modul 187 gemacht
+
+## Planung 13.3.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Modul 187
+- [] 2. AP: 
+- [] 3. AP:
+
+  (Heute habe ich... (50-100 Wörter))
+
