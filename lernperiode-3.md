@@ -97,3 +97,13 @@ Heute habe ich modul 187 gemacht
 
   (Heute habe ich... (50-100 Wörter))
 
+  Heute habe ich in dem Modul 187 weiter gearbeitet. Alles ist gut gegangen  und ohne Stolpersteine
+
+## Planung 20.3.2025
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] 1. AP: Modul 187
+- [] 2. AP: Modul 164
+- [] 3. AP:
+
+  (Heute habe ich... (50-100 Wörter))
